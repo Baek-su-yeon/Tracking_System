@@ -1,4 +1,4 @@
-## 🚀 Ezi-SERVO 기반 2축 리니어 스테이지 트래킹 시스템 (Closed-Loop Stepping System Tracking)
+## 🚀 Ezi-SERVO 기반 2축 리니어 스테이지 트래킹 시스템
 
 ### 🎯 프로젝트 개요
 
