@@ -28,8 +28,8 @@
 | :--- | :--- |
 | **모션 제어** | FASTECH Ezi-SERVO II Plus-E 전용 라이브러리 (DLL)를 이용한 TCP/UDP 통신 제어|
 | **위치 추종** | FAS\_MoveSingleAxisAbsPos 및 **Position Override** 명령을 활용한 실시간 좌표 갱신|
-| **컴퓨터 비전** | **OpenCV**를 이용한 영상 캡처 및 화면 출력 (cv::VideoCapture, cv::Mat). |
-| **GUI 및 스레딩** | MFC (Microsoft Foundation Class) 기반의 사용자 인터페이스 및 모니터링/트래킹 로직의 **다중 스레드 분리** (OnTimer, CreateThread). |
+| **컴퓨터 비전** | **OpenCV**를 이용한 영상 캡처 및 화면 출력 (cv::VideoCapture, cv::Mat)|
+| **GUI 및 스레딩** | MFC (Microsoft Foundation Class) 기반의 사용자 인터페이스 및 모니터링/트래킹 로직의 **다중 스레드 분리** (OnTimer, CreateThread) |
 
 ***
 
